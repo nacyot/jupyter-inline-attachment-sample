@@ -35,4 +35,4 @@ $ docker run \
 
 ## 3. Use InlineAttachment(This dosen't work in Firefox.)
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/zEFQRqelnRo" frameborder="0" allowfullscreen></iframe>
+[![Youtube](http://img.youtube.com/vi/zEFQRqelnRo/0.jpg)](http://youtu.be/zEFQRqelnRo)
